@@ -1,0 +1,21 @@
+# JupyterNotebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# PyCharm, VScode
+.idea/*
+deploy/.idea/*
+.vscode/launch.json
+
+# custom
+*/results/*
+*/figures/*
